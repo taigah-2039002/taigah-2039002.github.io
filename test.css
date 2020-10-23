@@ -1,0 +1,72 @@
+body{
+    
+    font-family: 'Passion One';
+
+p{
+    color: white;
+    font-family: "Arial";
+}
+
+h3{
+    color: #FFBC00;
+    font-size: 40px
+    font-family: "Passion One"
+    margin-bottom: 0px;
+}
+
+#Header{
+    border:solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    background-color: #8e41d5;
+}
+
+#Header h1{
+    font-size: 60px;
+    font-family: "Passion One";
+    color: #ffbc00;
+    font-weight: bold;
+    background-color: #8e41d5;
+}
+
+
+#LeftNav{
+    float: left;
+    text-align: center;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    padding-bottom: 8px;
+    background-color: #8e41d5;
+}
+
+#Content{
+    text-align: center;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    padding: 15px;
+    background-color: #8e41d5;
+}
+
+#Footer{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    background-color: #8e41d5;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
